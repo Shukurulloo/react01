@@ -1,0 +1,127 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins';
+font-style: normal;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:wght@500&family=Wix+Madefor+Display:wght@500&display=swap');
+.dashbord{
+background-color: #F1F5F9;
+height: 92vh;
+font-family: Poppins;
+}
+.accounting{
+  display: flex;
+  justify-content: space-around;
+
+}
+.right{
+  display: flex;
+margin-top: 40px;
+margin-right: -220px;
+}
+.left{
+  margin-left: -246px;
+}
+
+.accounting3{
+  display: flex;
+}
+
+.input1{
+  border: 1px solid #D6D6D6;
+  border-radius: 8px;
+  width: 200px;
+  height: 42px;
+  margin-right: 16px;
+}
+.search{
+  color: #D6D6D6;
+  display: flex;
+  font-size: 13px;
+  border: 1px solid #D6D6D6;
+  border-radius: 8px;
+  width: 200px;
+  height: 42px;
+  margin-right: 16px;
+  background-color: white
+}
+.search p{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.new-first{
+  border: 1px solid #D6D6D6;
+  border-radius: 8px;
+  margin-right: 16px;
+  font-size: 13px;
+  width: 112px;
+  height: 42px;
+  display: flex;
+  background-color: white;
+}
+.new-first p{
+  font-weight: 300;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Show-Only{
+  border: 1px solid #D6D6D6;
+  border-radius: 8px;
+  width: 118px;
+  font-size: 13px;
+  height: 42px;
+  display: flex;
+  background-color: white;
+  margin-right: 16px;
+}
+.Show-Only p{
+  font-weight: 300;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* .select{
+  width: 112px;
+  height: 42px;
+}
+.select2{
+  width: 120px;
+  height: 42px;
+} */
+.button1{
+  width: 144px;
+  border-radius: 8px;
+  border: none;
+  height: 42px;
+padding: 10px ;
+background-color: #5850EC;  
+color: white;
+}
+.icon1{
+  color: #D6D6D6;
+ margin: 12px;
+}
+.icon2{
+  margin: 12px;
+  color: #D6D6D6;
+ }
+ .icon3{
+  margin: 12px;
+ }
+
+ .web{
+ margin-left: 34px;
+ margin-top: 30px;
+  width: 1346px;
+  
+  background-color: #FFFFFF;
+ }
+ .web2{
+  display: flex;
+ }

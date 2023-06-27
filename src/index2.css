@@ -1,0 +1,65 @@
+.web-acount{
+    font-size: 13px;
+    font-weight: 600;
+    color:  #5850EC;
+    margin: 13px 70px;
+}
+.web-products{
+    font-weight: 500;
+    font-size: 13px;
+    margin: 13px;
+    color: #82868F;
+}
+.borderdiv{
+    border: 2px solid #5850EC;
+    width: 140px;
+    margin-left: 30px;
+}
+.border-div{
+    border: 1px solid #a6aab3;
+    width: 1146px;
+    margin-left: 170px;
+    margin-top: -3px;
+  
+}
+.border{
+    border: none;
+    display: flex;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 650px 650px;
+    /* grid-template-rows: auto; */
+    grid-gap: 15px;
+    height: 680px;
+  }
+  
+  .web3{
+    background-color: white;
+    border: 1px solid #a6aab3;
+    padding: 10px;
+    border-radius: 6px;
+    font-weight: 300;
+  }
+  .akshay{
+    display: flex;
+
+  }
+.icon4{
+   margin-left: 333px;
+   color: #82868F;
+}
+.icon5{
+    margin-left: 24px;
+    color: #82868F;
+ }
+ .buttonsub{
+    width: 100px;
+    height: 24px;
+    background-color: #CDCBF9;
+        color:  #5850EC;
+        border: none;
+        border-radius: 10px;
+        margin-left: 8px;
+ }
